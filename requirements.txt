@@ -1,0 +1,14 @@
+pandas
+altair==5.4.1
+streamlit
+torch
+torchvision
+joblib
+PIL
+scikit-learn
+tqdm
+numpy
+opencv-python
+import_ipynb
+ipynb
+
